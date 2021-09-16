@@ -20,7 +20,7 @@ A simple web app to play Tic Tac Toe against a dummy computer opponent.
 ## Install & Run:
 * Install Java 8.
 * Download and install gradle from [https://gradle.org/gradle-download/](https://gradle.org/gradle-download/).
-* git clone https://github.com/randomvlad/TicTacToe.git
+* git clone https://github.com/aayushi1908/TicTacToe
 * Change directory to "TicTacToe" and run command "gradle bootRun".
 * Make sure your host file is configured for localhost. Example: map IP 127.0.0.1 to localhost.
 * Once gradle build has finished and is running, go to [http://localhost:8080/tictactoe/](http://localhost:8080/tictactoe/) and play a game.
